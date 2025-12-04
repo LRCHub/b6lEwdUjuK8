@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "オノマトペメガネ / ササノマリイ (sasanomaly)",
+  "base_artist": "ササノマリイ",
+  "createdAt": "2025-12-04T14:18:22.094646Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オノマトペメガネ",
+      "artist": "ササノマリイ",
+      "has_synced": true,
+      "path": "select/01_オノマトペメガネ_ササノマリイ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オノマトペメガネ",
+      "artist": "sasanomaly（ササノマリイ）",
+      "has_synced": true,
+      "path": "select/02_オノマトペメガネ_sasanomaly(ササノマリイ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オノマトペメガネ",
+      "artist": "ササノマリイ",
+      "has_synced": false,
+      "path": "select/pl_01_オノマトペメガネ_ササノマリイ.txt"
+    }
+  ]
+}
